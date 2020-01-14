@@ -21,3 +21,5 @@ Correlations
 Map with Markers showing Hotels 
 
 ![Map](Images/Map_markers.png)
+
+updated
